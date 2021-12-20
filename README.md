@@ -1,0 +1,2 @@
+# PlayerRideAndControl
+/rideでプレイヤーまたはエンティティに乗って操作できるPluginです
