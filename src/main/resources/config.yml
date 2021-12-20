@@ -1,0 +1,9 @@
+# /rideコマンドの最大有効距離
+# Maximum effective distance of the /ride
+# Default: 16
+TargetMaxDistance: 16
+
+# rideしているPlayerを投げる力
+# The power to throw a player who is riding
+# Default: 2
+ThrowPower: 2

@@ -1,0 +1,12 @@
+name: PlayerRideAndControl
+version: '${project.version}'
+main: playerrideandcontrol.System
+api-version: 1.16
+
+commands:
+  ride:
+    description: target player to ride
+    usage: /<command>
+  playerRideAndControlReload:
+    aliases: prcreload
+    usage: /<command>
